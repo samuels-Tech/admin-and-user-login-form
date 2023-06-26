@@ -1,0 +1,38 @@
+
+body{
+    background-color: beige
+}center{
+
+    background:white ;
+    margin:  0 auto ;
+    width: 30%;
+    padding:90px;
+   border-radius: 30px;
+}
+h1{
+    background-color: goldenrod;
+}
+div{
+    padding: 20px;
+
+}
+label{
+    font-size: 24px;
+}
+input[type=password]{
+    padding: 10px;
+    text-align: center;
+
+}
+input[type=text]{
+    padding: 10px;
+    text-align: center;
+
+}
+div input{
+width: 100%;
+}
+input[type=submit]{
+    background-color: goldenrod;
+    padding: 10px;
+}
